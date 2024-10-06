@@ -17,19 +17,32 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 - **Pruebas de Interfaz de Usuario(UI)**
 - **Pruebas de Usabilidad**
 - **Reporte de Bugs**
-- **Conocimiento de Metodologías Ágiles(Scrum)**
+- **Conocimiento de Metodologías Ágiles (Scrum)**
 
 
 - **Selenium**, **Postman**,
 - **(SQL)**: Validación de datos con consultas en **MySQL**
 
-## 🛠️ Herramientas que utilizo:
-- **Jira / Trello** - Para la gestión de tareas y seguimiento de incidencias.
-- **Selenium** - Para la automatización de pruebas en interfaces web.
-- **Postman** - Para pruebas de APIs RESTful.
-- **GitHub** - Para el control de versiones y colaboración en proyectos.
-- **MySQL** - Para realizar consultas SQL y validar datos en bases de datos.
-- **Jenkins** - Integración continua y automatización de pipelines de pruebas.
+## 🛠️ Herramientas:
+
+### Me encuentro familiarizado con 
+
+- **Gestor de incidencias (Jira)**
+- **Conocimiento básico en lenguajes de programación (Java)**
+- **Entorno de desarrollo (IntelliJ IDEA)**
+- **Herramientas de automatización de pruebas (Selenium y Appium)**
+- **API testing (Postman)**
+
+## 🐞 Testing Tools :
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
+</div>
+
 
 ## 🌱 Actualmente estoy aprendiendo:
 - **Automatización avanzada con Cypress**.
