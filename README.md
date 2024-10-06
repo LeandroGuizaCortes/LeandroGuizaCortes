@@ -6,25 +6,22 @@ Soy [Nombre del Analista], un apasionado **Analista QA** con experiencia en gara
 
 Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendizaje y un fuerte deseo de seguir creciendo en el mundo del testing. Poseo un sólido entendimiento de los conceptos fundamentales y las bases del software testing. Me siento preparado para asumir nuevamente el reto de Analista QA Junior, ya que cuento con las habilidades necesarias para enfrentarlo con éxito.
 
-## 🚀 Habilidades Técnicas:
+## 🚀 Conocimientos:
 
-Conocimientos:
+- **Conocimientos teóricos en ISTQB**
+- **Análisis de historias de usuario(US)**
+- **Diseño de casos de prueba(TC)** 
+- **Ejecución de casos de pruebas(TX)**
+- **Pruebas Manuales**
+- **Pruebas Funcionales**
+- **Pruebas de Interfaz de Usuario(UI)**
+- **Pruebas de Usabilidad**
+- **Reporte de Bugs**
+- **Conocimiento de Metodologías Ágiles(Scrum)**
 
--Conocimientos teóricos en ISTQB 
--Análisis de historias de usuario(US) 
--Diseño de casos de prueba(TC) 
--Ejecución de casos de pruebas(TX)
--Pruebas Manuales
--Pruebas Funcionales
--Pruebas de Interfaz de Usuario(UI)
--Pruebas de usabilidad
--Reporte de Bugs
--Conocimiento de metodologías Ágiles(Scrum)
 
-- **Pruebas Funcionales**: Diseño y ejecución de pruebas funcionales para garantizar que las aplicaciones funcionen como se espera.
-- **Pruebas Automatizadas**: Experiencia en herramientas de automatización como **Selenium**, **Postman**, y **Cypress** para optimizar la cobertura de pruebas.
-- **Pruebas de API**: Uso de **Postman** y **REST Assured** para la validación de APIs, asegurando una correcta integración y respuesta.
-- **Pruebas de Base de Datos (SQL)**: Validación de datos con consultas en **MySQL** y **SQLite**.
+- **Selenium**, **Postman**,
+- **(SQL)**: Validación de datos con consultas en **MySQL**
 
 ## 🛠️ Herramientas que utilizo:
 - **Jira / Trello** - Para la gestión de tareas y seguimiento de incidencias.
