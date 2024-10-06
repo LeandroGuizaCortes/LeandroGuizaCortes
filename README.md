@@ -1,5 +1,5 @@
 
-# 💻 **[Leandro Güiza Cortes]** - Analista QA
+# 💻 **[Leandro Güiza Cortes]** - Analista QA 🐞
 
 ## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 Soy [Nombre del Analista], un apasionado **Analista QA** con experiencia en garantizar la calidad y eficiencia de los productos de software a través de **pruebas manuales y automatizadas**. Mi enfoque principal es ofrecer productos que no solo funcionen, sino que brinden la mejor experiencia posible a los usuarios.
@@ -19,7 +19,7 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 - **Reporte de Bugs**
 - **Conocimiento de Metodologías Ágiles (Scrum)**
 
-## 🐞 Herramientas con las que me encuentro familiarizado:
+## 🐞 💡 Herramientas con las que me encuentro familiarizado:
 
 - **Entorno de desarrollo (IntelliJ IDEA)**
 - **Herramientas de automatización de pruebas (Selenium y Appium)**
