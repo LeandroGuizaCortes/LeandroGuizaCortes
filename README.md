@@ -19,13 +19,7 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 - **Reporte de Bugs**
 - **Conocimiento de Metodologías Ágiles (Scrum)**
 
-
-- **Selenium**, **Postman**,
-- **(SQL)**: Validación de datos con consultas en **MySQL**
-
-## 🛠️ Herramientas:
-
-### Me encuentro familiarizado con 
+## gear Herramientasen las que me encuentro familiarizado:
 
 - **Gestor de incidencias (Jira)**
 - **Conocimiento básico en lenguajes de programación (Java)**
