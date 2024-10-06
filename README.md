@@ -44,11 +44,6 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 </div>
 
 
-## 🌱 Actualmente estoy aprendiendo:
-- **Automatización avanzada con Cypress**.
-- **Buenas prácticas de CI/CD** para integrar las pruebas en los flujos de desarrollo de software.
-- **Pruebas de seguridad web**.
-
 ## 📈 Proyectos Destacados:
 
 ## 💫 About Me:
