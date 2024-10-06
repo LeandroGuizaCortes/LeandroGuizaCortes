@@ -1,7 +1,5 @@
 
 # 💫 About Me:
-Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendizaje y un fuerte deseo de seguir creciendo en el mundo del testing. Poseo un sólido entendimiento de los conceptos fundamentales y las bases del software testing. Me siento preparado para asumir nuevamente el reto de QA Tester Junior, ya que cuento con las habilidades necesarias para enfrentarlo con éxito.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandro-guiza-cortes-579b612ab/) 
@@ -13,6 +11,8 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 
 ## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 Soy [Nombre del Analista], un apasionado **Analista QA** con experiencia en garantizar la calidad y eficiencia de los productos de software a través de **pruebas manuales y automatizadas**. Mi enfoque principal es ofrecer productos que no solo funcionen, sino que brinden la mejor experiencia posible a los usuarios.
+
+Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendizaje y un fuerte deseo de seguir creciendo en el mundo del testing. Poseo un sólido entendimiento de los conceptos fundamentales y las bases del software testing. Me siento preparado para asumir nuevamente el reto de QA Tester Junior, ya que cuento con las habilidades necesarias para enfrentarlo con éxito.
 
 ### 🚀 Habilidades Técnicas:
 - **Pruebas Funcionales**: Diseño y ejecución de pruebas funcionales para garantizar que las aplicaciones funcionen como se espera.
