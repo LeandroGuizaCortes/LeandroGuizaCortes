@@ -34,13 +34,8 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 </div>
 
 
-## 📈 Proyectos Destacados:
+## 📈💫💻💡 Proyectos Destacados:
 
-## 💫 About Me:
-
-## 💻 Tech Stack:
-
-## 📎 💡uuuuuu
 
 
 ## 🌐 Información de Contacto:
