@@ -19,7 +19,7 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 - **Reporte de Bugs**
 - **Conocimiento de Metodologías Ágiles (Scrum)**
 
-## 🐞 💡 Herramientas con las que me encuentro familiarizado:
+## 📎 Herramientas con las que me encuentro familiarizado:
 
 - **Entorno de desarrollo (IntelliJ IDEA)**
 - **Herramientas de automatización de pruebas (Selenium y Appium)**
@@ -40,7 +40,7 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 
 ## 💻 Tech Stack:
 
-## 📎 uuuuuu
+## 📎 💡uuuuuu
 
 
 ## 🌐 Información de Contacto:
