@@ -52,8 +52,6 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
 </div>
 
-<!--icons and links-->
-
 ## 🌐 Socials:
 <p align="center">
 <a href="https://www.linkedin.com/in/leandro-guiza-cortes-579b612ab/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
