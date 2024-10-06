@@ -125,14 +125,5 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 </div>
 
----
 
-### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefreerangetester" alt="thefreerangetester" /></a> </p>
-<div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefreerangetester&layout=compact&theme=vision-friendly-dark" width="600"/>
-</div>
 
