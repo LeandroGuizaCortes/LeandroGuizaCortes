@@ -40,7 +40,7 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 ## 📎 uuuuuu
 
 
-### 🐞 Testing Tools :
+## 🐞 Testing Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
@@ -50,13 +50,14 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
 </div>
 
-## 🌐 Socials:
+## 🌐 Información de Contacto:
+
 <p align="center">
 <a href="https://www.linkedin.com/in/leandro-guiza-cortes-579b612ab/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
  <a href="https://github.com/LeandroGuizaCortes" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a> 
 </p>
  
-¡Gracias por visitar mi perfil! 🚀
+## ¡Gracias por visitar mi perfil! 🚀
 
 
