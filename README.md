@@ -39,7 +39,7 @@ Soy [Nombre del Analista], un apasionado **Analista QA** con experiencia en gara
 ### 📈 Proyectos Destacados:
 
 
-¡Gracias por visitar mi perfil! 🚀
+📎 ¡Gracias por visitar mi perfil! 🚀
 
 
 
