@@ -34,9 +34,15 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 </div>
 
 
-## 📈💫💻💡 Proyectos Destacados:
+## 📈💫💻💡 Habilidades:
 
-
+- **Comunicación oral y escrita**
+- **Gestión del tiempo**
+- **Trabajo en equipo**
+- **Pensamiento técnico y critico**
+- **Curiosidad**
+- **Organización**
+- **Atención al detalle**
 
 ## 🌐 Información de Contacto:
 
