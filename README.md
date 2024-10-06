@@ -12,12 +12,12 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 - **Análisis de historias de usuario(US)**
 - **Diseño de casos de prueba(TC)** 
 - **Ejecución de casos de pruebas(TX)**
-- **Pruebas Manuales**
-- **Pruebas Funcionales**
-- **Pruebas de Interfaz de Usuario(UI)**
-- **Pruebas de Usabilidad**
-- **Reporte de Bugs**
-- **Conocimiento de Metodologías Ágiles (Scrum)**
+- **Pruebas manuales**
+- **Pruebas funcionales**
+- **Pruebas de interfaz de usuario(UI)**
+- **Pruebas de usabilidad**
+- **Reporte de bugs**
+- **Conocimiento de metodologías ágiles (Scrum)**
 
 ## 📎 Herramientas con las que me encuentro familiarizado:
 
@@ -32,7 +32,6 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
 </div>
-
 
 ## 📈💫💻💡 Habilidades:
 
