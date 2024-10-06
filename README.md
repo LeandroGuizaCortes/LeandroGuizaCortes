@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/LeandroGuizaCortes" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981366-cc0b9a5c-4ef0-4c7f-b8a8-6f555a2fceba.png" alt="github" height="50" width="50" />
+    <img align="center" src="https://skillicons.dev" alt="github" height="50" width="50" />
   </a>
 </p>
 
