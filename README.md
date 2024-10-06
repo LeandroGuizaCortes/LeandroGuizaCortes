@@ -42,12 +42,6 @@ Soy [Nombre del Analista], un apasionado **Analista QA** con experiencia en gara
 📎 ¡Gracias por visitar mi perfil! 🚀
 
 
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/appium/appium-original-wordmark.svg" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
-</div>
-
 ### 🐞 Testing Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
