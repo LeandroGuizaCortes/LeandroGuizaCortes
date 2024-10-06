@@ -61,6 +61,6 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
     <img align="center" alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a> 
 </p>
  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/LeandroGuizaCortes)
 
 
