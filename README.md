@@ -41,18 +41,6 @@ Soy [Nombre del Analista], un apasionado **Analista QA** con experiencia en gara
 - **[Nombre del Proyecto 2]**: Pruebas de API para una plataforma de gestión de usuarios utilizando Postman y Newman.
 - **[Nombre del Proyecto 3]**: Pruebas de bases de datos para la validación de datos en un sistema de gestión de inventarios.
 
-### 👨‍💻 Contribuciones y Colaboraciones:
-Me encanta colaborar en proyectos de **QA** y **Automatización de Pruebas**. No dudes en echar un vistazo a mis repositorios y proyectos. Estoy abierto a nuevas oportunidades de aprendizaje y colaboración en equipo.
-
-### 📫 ¡Hablemos!
-Si deseas contactarme para colaborar en proyectos o simplemente para discutir las mejores prácticas en QA, no dudes en enviarme un mensaje. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/leandro-guiza-cortes-579b612ab/) o enviarme un correo electrónico a: **tu-email@example.com**.
-
----
-
-### 📊 GitHub Stats:
-![Tu nombre GitHub Stats](https://github.com/LeandroGuizaCortes)
-
----
 
 ¡Gracias por visitar mi perfil! 🚀
 
