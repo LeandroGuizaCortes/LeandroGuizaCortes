@@ -1,6 +1,8 @@
 
 # 💻 **Leandro Güiza Cortes** - Analista QA 🐞
 
+<img src="https://i.imgur.com/weNbhGZ.png">
+
 ## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 
 Soy **Leandro**, un apasionado por la tecnologia. Soy un Analista QA Junior con un año de experiencia, con gran capacidad de aprendizaje y un fuerte deseo de seguir creciendo en el mundo del testing. Poseo un sólido entendimiento de los conceptos fundamentales y las bases del software testing. Me siento preparado para asumir nuevamente el reto de **Analista QA Junior**, ya que cuento con las habilidades necesarias para enfrentarlo con éxito.
