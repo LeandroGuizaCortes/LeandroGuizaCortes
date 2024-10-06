@@ -19,15 +19,11 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 - **Reporte de Bugs**
 - **Conocimiento de Metodologías Ágiles (Scrum)**
 
-## gear Herramientasen las que me encuentro familiarizado:
+## 🐞 Herramientas con las que me encuentro familiarizado:
 
-- **Gestor de incidencias (Jira)**
-- **Conocimiento básico en lenguajes de programación (Java)**
 - **Entorno de desarrollo (IntelliJ IDEA)**
 - **Herramientas de automatización de pruebas (Selenium y Appium)**
-- **API testing (Postman)**
 
-## 🐞 Testing Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
@@ -41,8 +37,6 @@ Soy Analista QA Junior con un año de experiencia, con gran capacidad de aprendi
 ## 📈 Proyectos Destacados:
 
 ## 💫 About Me:
-
-## 🌐 Socials:
 
 ## 💻 Tech Stack:
 
