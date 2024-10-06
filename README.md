@@ -32,7 +32,7 @@ Soy **Leandro**, un apasionado por la tecnologia. Soy un Analista QA Junior con 
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
 </div>
 
-## 📈💡 Habilidades:
+## 💡 Habilidades:
 
 - **Comunicación oral y escrita**
 - **Gestión del tiempo**
@@ -50,6 +50,6 @@ Soy **Leandro**, un apasionado por la tecnologia. Soy un Analista QA Junior con 
     <img align="center" alt="TienHuynh-TN | GitHub" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a> 
 </p>
  
-## 💫¡Gracias por visitar mi perfil! 🚀
+## ¡Gracias por visitar mi perfil! 🚀
 
 
