@@ -43,7 +43,6 @@ Soy [Nombre del Analista], un apasionado **Analista QA** con experiencia en gara
 
 ---
 
-### hammer_and_wrench: Languages and Dev Tools :
 ### 🐞 Testing Tools :
 <div>
   
