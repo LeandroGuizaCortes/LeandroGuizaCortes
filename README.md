@@ -1,7 +1,7 @@
 
 # 💻 **Leandro Güiza Cortes** - Analista QA 🐞
 
-<img src="https://i.imgur.com/weNbhGZ.png">
+[![Designer.png](https://i.postimg.cc/44pmXH70/Designer.png)](https://postimg.cc/nMcHkz1K)
 
 ## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 
